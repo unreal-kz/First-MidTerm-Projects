@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LessonOneTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="myString">Привет класс</string>
+    <string name="okText">ОК</string>
+
+</resources>
